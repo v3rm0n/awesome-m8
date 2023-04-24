@@ -8,7 +8,7 @@ A curated list of awesome Dirtywave M8 ecosystem
 ## Documents
 - [Manual](https://dirtywave.com/assets/manuals/m8/m8_operation_manual.pdf)
 - [Headless Setup Guide](https://github.com/Dirtywave/M8Docs/blob/main/docs/M8HeadlessSetup.md)
-- [Community manual](https://www.notion.so/dc3fe39bbc464879ac984f0a69cc61bf?v=fd554243d3fa43558901cf96984120b9)
+- [Open M8 Tips, Tricks, and Findings](https://docs.google.com/document/d/1IpUeR2s9TpkwH9w2lfqfLLkUxLvXcQWipDR046DzOYk/edit#)
 
 ## Headless clients
 - [M8WebDisplay](https://derkyjadex.github.io/M8WebDisplay/) - M8 Headless client for Web
