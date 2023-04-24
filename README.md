@@ -32,6 +32,7 @@ A curated list of awesome Dirtywave M8 ecosystem
 ## Videos
 - [Dirtywave Youtube channel](https://www.youtube.com/channel/UCgIBbBAnIjsA_z0tZQNC7rQ)
 - [Dirtywave M8 Tracker Beginner Tips and Tricks](https://www.youtube.com/watch?v=QYeM4Dx2kGU)
+- [Dirtywave M8 Tutorial #1: Basic Introduction and Workflow Walkthrough](https://youtu.be/Xe0NnfjcJ_g)
 - [Dirtywave M8 Tutorial, Amen Break, Arp, Venetian 7/8, Triplets, Timestretch, Sidechain](https://www.youtube.com/watch?v=EDGNOoVewXE)
 
 ## Made with M8
