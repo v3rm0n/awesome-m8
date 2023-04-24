@@ -17,6 +17,9 @@ A curated list of awesome Dirtywave M8 ecosystem
 - [m8c-android](https://github.com/v3rm0n/m8c-android) - Android wrapper for **m8c**
 - [rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - **m8c** for rg351 devices
 
+## Headless builds
+- [m8c-rpi4](https://github.com/RowdyVoyeur/m8c-rpi4) - RowdyVoyeur's Lego Raspberry Pi 4 build
+
 ## Instruments
 - [Matey](https://www.impbox.net/matey/)
 
