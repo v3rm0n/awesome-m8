@@ -31,6 +31,9 @@ A curated list of awesome Dirtywave M8 ecosystem
 - [Dirtywave M8 Tracker Beginner Tips and Tricks](https://www.youtube.com/watch?v=QYeM4Dx2kGU)
 - [Dirtywave M8 Tutorial, Amen Break, Arp, Venetian 7/8, Triplets, Timestretch, Sidechain](https://www.youtube.com/watch?v=EDGNOoVewXE)
 
+## Made with M8
+- [Rituals - Jeremy Blake](https://soundvision.bandcamp.com/album/rituals)
+
 ## Community
 - [Subreddit](https://reddit.com/r/m8tracker/)
 - [Discord server](https://discord.gg/WEavjFNYHh)
