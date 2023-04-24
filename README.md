@@ -25,6 +25,7 @@ A curated list of awesome Dirtywave M8 ecosystem
 
 ## Tools
 - [m8-js](https://github.com/whitlockjc/m8-js) - Read and write M8 files
+- [midi-m8](https://github.com/AlexCharlton/midi-m8) - Convert M8 song files into MIDI files
 - [ChordMate](https://www.impbox.net/chordmate) - Convert chords into hex
 - [Theme Editor](https://d28vpsbeh0wh2.cloudfront.net)
 - [Sample organizer](https://github.com/birds-inc/m8-sample-organizer)
