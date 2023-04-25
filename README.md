@@ -22,7 +22,10 @@ A curated list of awesome Dirtywave M8 ecosystem
 - [m8c-rpi4](https://github.com/RowdyVoyeur/m8c-rpi4) - RowdyVoyeur's Lego Raspberry Pi 4 build
 
 ## Instruments
+- [Community Starter Pack](https://archive.org/download/ChipmusicResources/M8_Community_SD-card_Starter_Pack.7z)
 - [Matey](https://www.impbox.net/matey/)
+- [laamaa instruments](https://github.com/laamaa/m8i)
+- [tobokegao instruments](https://github.com/tobokegao/m8-tracker-instruments)
 
 ## Tools
 - [m8-js](https://github.com/whitlockjc/m8-js) - Read and write M8 files
