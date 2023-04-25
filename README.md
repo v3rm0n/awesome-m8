@@ -37,7 +37,11 @@ A curated list of awesome Dirtywave M8 ecosystem
 - [Dirtywave M8 Tutorial, Amen Break, Arp, Venetian 7/8, Triplets, Timestretch, Sidechain](https://www.youtube.com/watch?v=EDGNOoVewXE)
 
 ## Made with M8
-- [Rituals - Jeremy Blake](https://soundvision.bandcamp.com/album/rituals)
+- [Rituals - Jeremy Blake](https://soundvision.bandcamp.com/album/rituals) (includes source files)
+- [seven weeks - laamaa](https://laamaa.bandcamp.com/album/seven-weeks) (includes source files)
+- [m8 - laamaa](https://laamaa.bandcamp.com/album/m8) (includes source files)
+- [better days - laamaa](https://laamaa.bandcamp.com/album/better-days) (includes source files)
+- [「 Aquila 」- Azuria Sky](https://azuria-sky.bandcamp.com/album/aquila)
 
 ## Community
 - [Subreddit](https://reddit.com/r/m8tracker/)
