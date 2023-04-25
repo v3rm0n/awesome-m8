@@ -42,6 +42,7 @@ A curated list of awesome Dirtywave M8 ecosystem
 - [m8 - laamaa](https://laamaa.bandcamp.com/album/m8) (includes source files)
 - [better days - laamaa](https://laamaa.bandcamp.com/album/better-days) (includes source files)
 - [「 Aquila 」- Azuria Sky](https://azuria-sky.bandcamp.com/album/aquila)
+- [bandcamp's m8tracker category](https://bandcamp.com/tag/m8tracker?from=tralbum&artist=1666828336)
 
 ## Community
 - [Subreddit](https://reddit.com/r/m8tracker/)
