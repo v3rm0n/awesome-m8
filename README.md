@@ -26,6 +26,7 @@ A curated list of awesome Dirtywave M8 ecosystem
 - [Matey](https://www.impbox.net/matey/)
 - [laamaa instruments](https://github.com/laamaa/m8i)
 - [tobokegao instruments](https://github.com/tobokegao/m8-tracker-instruments)
+- [QY70 (XG level 1) MIDI instruments](https://github.com/colonel-blimp/m8-midi-instruments-for-qy70)
 
 ## Tools
 - [m8-js](https://github.com/whitlockjc/m8-js) - Read and write M8 files
