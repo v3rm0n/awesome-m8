@@ -51,6 +51,10 @@ A curated list of awesome Dirtywave M8 ecosystem
 - [「 Aquila 」- Azuria Sky](https://azuria-sky.bandcamp.com/album/aquila)
 - [bandcamp's m8tracker category](https://bandcamp.com/tag/m8tracker?from=tralbum&artist=1666828336)
 
+## Keycaps
+- [splitkb](https://splitkb.com/search?type=article%2Cpage%2Cproduct&q=MBK*+Choc*+Low*+Profile*+Keycaps*)- EU
+- [keycapsss](https://keycapsss.com/search?sSearch=mbk+choc+low+profile) - EU
+
 ## Community
 - [Subreddit](https://reddit.com/r/m8tracker/)
 - [Discord server](https://discord.gg/WEavjFNYHh)
