@@ -44,17 +44,17 @@ A curated list of awesome Dirtywave M8 ecosystem
 - [Dirtywave M8 Tutorial, Amen Break, Arp, Venetian 7/8, Triplets, Timestretch, Sidechain](https://www.youtube.com/watch?v=EDGNOoVewXE)
 
 ## Made with M8
+- [「 Aquila 」- Azuria Sky](https://azuria-sky.bandcamp.com/album/aquila)
 - [Rituals - Jeremy Blake](https://soundvision.bandcamp.com/album/rituals) (includes source files)
+- [In, Vulnerable - Calavera](https://calaveralovesyou.bandcamp.com/album/in-vulnerable)
 - [seven weeks - laamaa](https://laamaa.bandcamp.com/album/seven-weeks) (includes source files)
 - [m8 - laamaa](https://laamaa.bandcamp.com/album/m8) (includes source files)
 - [better days - laamaa](https://laamaa.bandcamp.com/album/better-days) (includes source files)
-- [「 Aquila 」- Azuria Sky](https://azuria-sky.bandcamp.com/album/aquila)
+- [warehouse meditation - mikey303](https://attackthemusic.bandcamp.com/album/warehouse-meditation) (includes source files)
+- [Lossless Experience - Nullsleep](https://nullsleep.bandcamp.com/album/lossless-experience)
+- [Hidden Patterns - Nullsleep](https://nullsleep.bandcamp.com/album/hidden-patterns)
+- [Cold flame - S_TN](https://stresstn.bandcamp.com/album/cold-flame-m8-project) (includes source files)
 - [bandcamp's m8tracker category](https://bandcamp.com/tag/m8tracker?from=tralbum&artist=1666828336)
-- [In, Vulnerable - Calavera](https://calaveralovesyou.bandcamp.com/album/in-vulnerable)
-- [S_TN - Cold flame](https://stresstn.bandcamp.com/album/cold-flame-m8-project)
-- [Nullsleep - Lossless Experience](https://nullsleep.bandcamp.com/album/lossless-experience)
-- [Nullsleep - Hidden Patterns](https://nullsleep.bandcamp.com/album/hidden-patterns)
-- [mikey303 - warehouse meditation](https://attackthemusic.bandcamp.com/album/warehouse-meditation)
 
 ## Keycaps
 - [splitkb](https://splitkb.com/search?type=article%2Cpage%2Cproduct&q=MBK*+Choc*+Low*+Profile*+Keycaps*) - EU
