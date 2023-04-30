@@ -50,6 +50,11 @@ A curated list of awesome Dirtywave M8 ecosystem
 - [better days - laamaa](https://laamaa.bandcamp.com/album/better-days) (includes source files)
 - [「 Aquila 」- Azuria Sky](https://azuria-sky.bandcamp.com/album/aquila)
 - [bandcamp's m8tracker category](https://bandcamp.com/tag/m8tracker?from=tralbum&artist=1666828336)
+- [In, Vulnerable - Calavera](https://calaveralovesyou.bandcamp.com/album/in-vulnerable)
+- [S_TN - Cold flame](https://stresstn.bandcamp.com/album/cold-flame-m8-project)
+- [Nullsleep - Lossless Experience](https://nullsleep.bandcamp.com/album/lossless-experience)
+- [Nullsleep - Hidden Patterns](https://nullsleep.bandcamp.com/album/hidden-patterns)
+- [mikey303 - warehouse meditation](https://attackthemusic.bandcamp.com/album/warehouse-meditation)
 
 ## Keycaps
 - [splitkb](https://splitkb.com/search?type=article%2Cpage%2Cproduct&q=MBK*+Choc*+Low*+Profile*+Keycaps*) - EU
