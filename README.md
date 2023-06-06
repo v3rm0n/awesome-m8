@@ -46,6 +46,7 @@ A curated list of awesome [Dirtywave M8](https://dirtywave.com/products/m8-track
 ## Made with M8
 - [「 Aquila 」- Azuria Sky](https://azuria-sky.bandcamp.com/album/aquila)
 - [Rituals - Jeremy Blake](https://soundvision.bandcamp.com/album/rituals) (includes source files)
+- [Heartsing - Jeremy Blake](https://soundvision.bandcamp.com/album/heartsing) (includes source files)
 - [In, Vulnerable - Calavera](https://calaveralovesyou.bandcamp.com/album/in-vulnerable)
 - [seven weeks - laamaa](https://laamaa.bandcamp.com/album/seven-weeks) (includes source files)
 - [m8 - laamaa](https://laamaa.bandcamp.com/album/m8) (includes source files)
