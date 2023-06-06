@@ -1,5 +1,5 @@
 # awesome-m8
-A curated list of awesome Dirtywave M8 ecosystem
+A curated list of awesome [Dirtywave M8](https://dirtywave.com/products/m8-tracker) ecosystem. Preorder it from [here](https://dirtywave.com/products/m8-tracker).
 
 ## Firmware
 - [M8Firmware](https://github.com/Dirtywave/M8Firmware) - Official firmware of the M8
