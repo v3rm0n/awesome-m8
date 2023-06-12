@@ -12,7 +12,7 @@ A curated list of awesome [Dirtywave M8](https://dirtywave.com/products/m8-track
 - [Printable Shortcut Guide](https://github.com/LaurentVitalis/M8Guide)
 
 ## Headless clients
-- [M8WebDisplay](https://derkyjadex.github.io/M8WebDisplay/) - M8 Headless client for Web
+- [M8WebDisplay](https://m8.run) - M8 Headless client for Web
 - [m8c](https://github.com/laamaa/m8c) - M8 Headless client written in C
 - [rm8](https://github.com/booss/rm8) - M8 Headless client written in Rust
 - [m8c-android](https://github.com/v3rm0n/m8c-android) - Android wrapper for **m8c**
