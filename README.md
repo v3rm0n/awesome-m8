@@ -21,6 +21,7 @@ A curated list of awesome [Dirtywave M8](https://dirtywave.com/products/m8-track
 ## Headless builds
 - [m8c-rpi4](https://github.com/RowdyVoyeur/m8c-rpi4) - RowdyVoyeur's Lego Raspberry Pi 4 build
 - [M8HeadlessStaging](https://github.com/ijnekenamay/M8HeadlessStaging) - ijnekenamay's PCB for Pi 4 build
+- [Tracker-Controller](https://github.com/miotislucifugis/Tracker-Controller) - custom controller for M8
 
 ## Instruments
 - [Community Starter Pack](https://archive.org/download/ChipmusicResources/M8_Community_SD-card_Starter_Pack.7z)
