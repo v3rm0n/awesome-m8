@@ -22,6 +22,12 @@ A curated list of awesome [Dirtywave M8](https://dirtywave.com/products/m8-track
 - [m8c-rpi4](https://github.com/RowdyVoyeur/m8c-rpi4) - RowdyVoyeur's Lego Raspberry Pi 4 build
 - [M8HeadlessStaging](https://github.com/ijnekenamay/M8HeadlessStaging) - ijnekenamay's PCB for Pi 4 build
 - [Tracker-Controller](https://github.com/miotislucifugis/Tracker-Controller) - custom controller for M8
+- [M8-BLE-Keypad](https://github.com/ProtenProjects/M8-BLE-Keypad) - custom remote controller for M8 using BLE
+
+## Headless cases
+- [GameBoy cartridge case](https://www.printables.com/model/192979-teensy-41-game-boy-cartridge-case)
+- [Steam Deck case](https://www.printables.com/model/254524-steam-deck-dirtywave-m8-headless-holder-for-teensy)
+- [Slot case](https://www.thingiverse.com/thing:4965543)
 
 ## Instruments
 - [Community Starter Pack](https://archive.org/download/ChipmusicResources/M8_Community_SD-card_Starter_Pack.7z)
