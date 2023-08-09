@@ -30,6 +30,9 @@ A curated list of awesome [Dirtywave M8](https://dirtywave.com/products/m8-track
 - [tobokegao instruments](https://github.com/tobokegao/m8-tracker-instruments)
 - [QY70 (XG level 1) MIDI instruments](https://github.com/colonel-blimp/m8-midi-instruments-for-qy70)
 
+## Themes
+- [d-huck themes](https://github.com/d-huck/m8-themes)
+
 ## Tools
 - [m8-js](https://github.com/whitlockjc/m8-js) - Read and write M8 files
 - [midi-m8](https://github.com/AlexCharlton/midi-m8) - Convert M8 song files into MIDI files
