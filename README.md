@@ -45,6 +45,7 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [ChordMate](https://www.impbox.net/chordmate) - Convert chords into hex
 - [Theme Editor](https://d28vpsbeh0wh2.cloudfront.net)
 - [Sample organizer](https://github.com/birds-inc/m8-sample-organizer)
+- [MIDI router](https://bobbydigitales.github.io/midi_router)
 
 ## Videos
 - [Dirtywave Youtube channel](https://www.youtube.com/channel/UCgIBbBAnIjsA_z0tZQNC7rQ)
