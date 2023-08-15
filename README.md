@@ -46,6 +46,7 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [Theme Editor](https://d28vpsbeh0wh2.cloudfront.net)
 - [Sample organizer](https://github.com/birds-inc/m8-sample-organizer)
 - [MIDI router](https://bobbydigitales.github.io/midi_router)
+- [Kaitai structs](https://github.com/colonel-blimp/m8s-kaitai-struct) Descriptions of M8 files binary formats in Kaitai
 
 ## Videos
 - [Dirtywave Youtube channel](https://www.youtube.com/channel/UCgIBbBAnIjsA_z0tZQNC7rQ)
