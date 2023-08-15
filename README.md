@@ -35,6 +35,7 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [laamaa instruments](https://github.com/laamaa/m8i)
 - [tobokegao instruments](https://github.com/tobokegao/m8-tracker-instruments)
 - [QY70 (XG level 1) MIDI instruments](https://github.com/colonel-blimp/m8-midi-instruments-for-qy70)
+- [Sega Genesis + PC-98 FM instruments](https://defensem3ch.gumroad.com/l/m8ifm)
 
 ## Themes
 - [d-huck themes](https://github.com/d-huck/m8-themes)
@@ -46,7 +47,8 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [Theme Editor](https://d28vpsbeh0wh2.cloudfront.net)
 - [Sample organizer](https://github.com/birds-inc/m8-sample-organizer)
 - [MIDI router](https://bobbydigitales.github.io/midi_router)
-- [Kaitai structs](https://github.com/colonel-blimp/m8s-kaitai-struct) Descriptions of M8 files binary formats in Kaitai
+- [Kaitai structs](https://github.com/colonel-blimp/m8s-kaitai-struct) - Descriptions of M8 files binary formats in Kaitai
+- [DigiChain](https://digichain.brianbar.net) - Create sample chains
 
 ## Videos
 - [Dirtywave Youtube channel](https://www.youtube.com/channel/UCgIBbBAnIjsA_z0tZQNC7rQ)
@@ -77,3 +79,4 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [Subreddit](https://reddit.com/r/m8tracker/)
 - [Discord server](https://discord.gg/WEavjFNYHh)
 - [Chipmusic forum](https://chipmusic.org/forums/forum/36/m8/)
+- [Patchstorage](https://patchstorage.com/platform/dirtywave-m8/)
