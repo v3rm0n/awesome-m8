@@ -71,6 +71,7 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [Hidden Patterns - Nullsleep](https://nullsleep.bandcamp.com/album/hidden-patterns)
 - [Cold flame - S_TN](https://stresstn.bandcamp.com/album/cold-flame-m8-project) (includes source files)
 - [bandcamp's m8tracker category](https://bandcamp.com/tag/m8tracker?from=tralbum&artist=1666828336)
+- [jegasus M8 Bundle List](https://docs.google.com/spreadsheets/d/1YJv1nsfv4OziT8_koJUuvlddREMl0XYw_pKRHV_RCBk/edit#gid=0)
 
 ## Keycaps
 - [splitkb](https://splitkb.com/search?type=article%2Cpage%2Cproduct&q=MBK*+Choc*+Low*+Profile*+Keycaps*) - EU
