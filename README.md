@@ -50,6 +50,7 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [Kaitai structs](https://github.com/colonel-blimp/m8s-kaitai-struct) - Descriptions of M8 files binary formats in Kaitai
 - [DigiChain](https://digichain.brianbar.net) - Create sample chains
 - [M8 Tracker and Ableton Live 11 Hybrid Workflow Bundle](https://www.craft.me/s/vBTgUWlfacwcZS)
+- [M8 Kit Creator](https://github.com/aTanguay/M8_KitCreator/)
 
 ## Videos
 - [Dirtywave Youtube channel](https://www.youtube.com/channel/UCgIBbBAnIjsA_z0tZQNC7rQ)
