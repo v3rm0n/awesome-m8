@@ -39,6 +39,7 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 
 ## Themes
 - [d-huck themes](https://github.com/d-huck/m8-themes)
+- [m8them.es](https://m8them.es/)
 
 ## Tools
 - [m8-js](https://github.com/whitlockjc/m8-js) - Read and write M8 files
