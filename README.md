@@ -19,6 +19,7 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - **m8c** for rg351 devices
 
 ## Headless builds
+- [M8-Headless-Keyboard](https://github.com/adwuard/dirtywave-m8-headless-keyboard) - Teensy headless + Keyboard all in one contained build
 - [m8c-rpi4](https://github.com/RowdyVoyeur/m8c-rpi4) - RowdyVoyeur's Lego Raspberry Pi 4 build
 - [M8HeadlessStaging](https://github.com/ijnekenamay/M8HeadlessStaging) - ijnekenamay's PCB for Pi 4 build
 - [Tracker-Controller](https://github.com/miotislucifugis/Tracker-Controller) - custom controller for M8
