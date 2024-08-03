@@ -23,6 +23,7 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [M8HeadlessStaging](https://github.com/ijnekenamay/M8HeadlessStaging) - ijnekenamay's PCB for Pi 4 build
 - [Tracker-Controller](https://github.com/miotislucifugis/Tracker-Controller) - custom controller for M8
 - [M8-BLE-Keypad](https://github.com/ProtenProjects/M8-BLE-Keypad) - custom remote controller for M8 using BLE
+- [TrackerKB](https://github.com/adwuard/TrackerKB)
 
 ## Headless cases
 - [GameBoy cartridge case](https://www.printables.com/model/192979-teensy-41-game-boy-cartridge-case)
