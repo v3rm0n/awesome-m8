@@ -17,6 +17,7 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [rm8](https://github.com/booss/rm8) - M8 Headless client written in Rust
 - [m8c-android](https://github.com/v3rm0n/m8c-android) - Android wrapper for **m8c**
 - [rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - **m8c** for rg351 devices
+- [m8c_arkOs_4.0](https://github.com/miotislucifugis/m8c_arkOs_4.0) - M8C 1.7.8 for ArkOs2.0
 - [m8c-rg35xx-knulli](https://github.com/jamesMcMeex/m8c-rg35xx-knulli) - m8c-Knulli Build Environment for RG35XX*
 - [steamdeck-m8c](https://github.com/roterodamus/steamdeck-m8c) - m8c for SteamDeck
 
