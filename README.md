@@ -84,7 +84,7 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [keycapsss](https://keycapsss.com/search?sSearch=mbk+choc+low+profile) - EU
 
 ## Community
-- [Subreddit](https://reddit.com/r/m8tracker/)
+- [Subreddit](https://www.reddit.com/r/Dirtywave/)
 - [Discord server](https://discord.gg/WEavjFNYHh)
 - [Chipmusic forum](https://chipmusic.org/forums/forum/36/m8/)
 - [Patchstorage](https://patchstorage.com/platform/dirtywave-m8/)
