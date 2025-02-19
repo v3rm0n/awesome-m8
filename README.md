@@ -48,6 +48,7 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 ## Tools
 - [m8-js](https://github.com/whitlockjc/m8-js) - Read and write M8 files
 - [midi-m8](https://github.com/AlexCharlton/midi-m8) - Convert M8 song files into MIDI files
+- [m8-files](https://github.com/AlexCharlton/m8-files) - Read and write M8 files in Rust
 - [ChordMate](https://www.impbox.net/chordmate) - Convert chords into hex
 - [Theme Editor](https://d28vpsbeh0wh2.cloudfront.net)
 - [Sample organizer](https://github.com/birds-inc/m8-sample-organizer)
@@ -56,6 +57,8 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [DigiChain](https://digichain.brianbar.net) - Create sample chains
 - [M8 Tracker and Ableton Live 11 Hybrid Workflow Bundle](https://www.craft.me/s/vBTgUWlfacwcZS)
 - [M8 Kit Creator](https://github.com/aTanguay/M8_KitCreator/)
+- [M8 table editor](https://twinside.github.io/m8table/) Table creation helper ([demo](https://www.youtube.com/watch?v=pPlttay6wzU))
+- [reM8xer](https://twinside.github.io/rem8xer/) Song file remixer, allow transfert of chain/phrase/instruments between song files ([old demo](https://www.youtube.com/watch?v=INRRK7ZTePQ))
 
 ## Videos
 - [Dirtywave Youtube channel](https://www.youtube.com/channel/UCgIBbBAnIjsA_z0tZQNC7rQ)
