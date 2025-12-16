@@ -10,6 +10,7 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [Headless Setup Guide](https://github.com/Dirtywave/M8Docs/blob/main/docs/M8HeadlessSetup.md)
 - [Open M8 Tips, Tricks, and Findings](https://docs.google.com/document/d/1IpUeR2s9TpkwH9w2lfqfLLkUxLvXcQWipDR046DzOYk/edit#)
 - [Printable Shortcut Guide](https://github.com/LaurentVitalis/M8Guide)
+- [The M8 Companion](https://cs.uwaterloo.ca/~plragde/flaneries/TM8C/index.html)
 
 ## Headless clients
 - [M8WebDisplay](https://m8.run) - M8 Headless client for Web
