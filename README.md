@@ -14,8 +14,11 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 
 ## Headless clients
 - [M8WebDisplay](https://m8.run) - M8 Headless client for Web
+- [M8C](https://apps.apple.com/us/app/m8c/id6746388495) - Official M8 remote display client for iOS/macOS by Dirtywave (requires firmware 6.0+)
 - [m8c](https://github.com/laamaa/m8c) - M8 Headless client written in C
+- [m8c_flow](https://github.com/LeeHolmes/m8c_flow) - **m8c** fork with Flow Mode for streamlined live performance
 - [rm8](https://github.com/booss/rm8) - M8 Headless client written in Rust
+- [m8gd](https://github.com/octoocto/m8gd) - M8 display client made in Godot 4 with 3D/2D scenes and visual filters
 - [m8c-android](https://github.com/v3rm0n/m8c-android) - Android wrapper for **m8c**
 - [rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - **m8c** for rg351 devices
 - [m8c_arkOs_4.0](https://github.com/miotislucifugis/m8c_arkOs_4.0) - M8C 1.7.8 for ArkOs2.0
@@ -47,6 +50,8 @@ A curated list of the awesome [Dirtywave M8](https://dirtywave.com/products/m8-t
 - [m8them.es](https://m8them.es/)
 
 ## Tools
+- [Sampson Sample Manager](https://github.com/irpina/Sampson-Sample-Manager) - Cross-platform GUI sample manager with M8 hardware profile (path limits, auto-convert to 44.1kHz/16-bit WAV)
+- [midi-tools](https://github.com/RowdyVoyeur/midi-tools) - MIDI tools for use with M8C on Raspberry Pi (CC/note conversion, audio routing, volume control)
 - [m8-js](https://github.com/whitlockjc/m8-js) - Read and write M8 files
 - [midi-m8](https://github.com/AlexCharlton/midi-m8) - Convert M8 song files into MIDI files
 - [m8-files](https://github.com/AlexCharlton/m8-files) - Read and write M8 files in Rust
